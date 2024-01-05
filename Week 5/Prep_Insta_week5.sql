@@ -70,3 +70,19 @@ INSERT INTO solution VALUES (1, "Miranda Priestly");
 
 -- Retrieve the final answer
 SELECT value FROM solution;
+
+--#Reflect on the Investigation :
+
+--In my attempt to solve the SQL Murder Mystery, I negotiated a givenclues within a database. Making connections, I discovered a crime scene report outlining a murder in SQL City on January 15, 2018.
+--I pieced together the jigsaw by diving into witness testimony using SQL queries and analyzing personal information and remarks. 
+--The gym database became a focal point, revealing suspects with gold memberships and fascinating check-in habits.
+--Examining automobile information narrowed down the suspect, but the turning point was finding the true mastermind behind murder red-haired Tesla driver
+--SQL queries brought together driver's licenses, income, and Facebook event check-ins, leading to the primary suspect: "Miranda Priestly."
+
+--This hands-on experience demonstrated the potential of SQL in solving real-world problems, while also honing my data extraction and analytical abilities. 
+--The SQL Murder Mystery was more than simply a learning experience; it changed me into a seasoned SQL detective, ready to take on new challenges in the field of data research.
+
+
+
+
+
